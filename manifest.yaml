@@ -1,15 +1,15 @@
 info:
-  title: 'Hello, World!'
-  description: 'Say hello to the world!'
+  title: 'docker_fileserver'
+  description: 'dockerized fileserver'
   x-21-quick-buy: "$ 21 buy http://%s:%s/%s/hello"
   x-21-category: utilities
-  x-21-app-image: "https://cdn.filepicker.io/api/file/x6J1kiKyT9WhjmbqBrAb"
+  x-21-app-image: "http://image.hotdog.hu/imagerotator/guitarpro0/ee.jpg"
   x-21-total-price:
     min: 5000
     max: 5000
   contact:
-    name: Satoshi Nakamoto
-    email: satoshi@example.com
+    name: Philbert
+    email: philbert@example.com
 host: ""
 schemes:
   - http
